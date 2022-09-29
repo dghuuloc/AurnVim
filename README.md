@@ -13,6 +13,12 @@ The project is constantly changing.
 
 ---
 
+<p align="center">
+<img src="./shots/Vim-Arch.png" />
+</p>
+
+---
+
 # Guide pre-installing neovim and configuring
 ## Get the latest version of Neovim
 First, get the dependencies. For distributions other than Ubuntu or Arch 
